@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance", "inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Release|x64.Build.0 = Release|Any CPU
 		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Release|x86.ActiveCfg = Release|Any CPU
 		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Release|x86.Build.0 = Release|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Debug|x64.Build.0 = Debug|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Debug|x86.Build.0 = Debug|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Release|x64.ActiveCfg = Release|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Release|x64.Build.0 = Release|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Release|x86.ActiveCfg = Release|Any CPU
+		{CD5AEE29-FFCB-4F8E-A0CA-D35D41574171}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
