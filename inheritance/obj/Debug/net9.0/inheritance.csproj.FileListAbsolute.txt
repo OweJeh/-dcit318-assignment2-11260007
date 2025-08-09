@@ -1,0 +1,14 @@
+C:\Users\HomePC\Desktop\c# code\inheritance\bin\Debug\net9.0\inheritance.exe
+C:\Users\HomePC\Desktop\c# code\inheritance\bin\Debug\net9.0\inheritance.deps.json
+C:\Users\HomePC\Desktop\c# code\inheritance\bin\Debug\net9.0\inheritance.runtimeconfig.json
+C:\Users\HomePC\Desktop\c# code\inheritance\bin\Debug\net9.0\inheritance.dll
+C:\Users\HomePC\Desktop\c# code\inheritance\bin\Debug\net9.0\inheritance.pdb
+C:\Users\HomePC\Desktop\c# code\inheritance\obj\Debug\net9.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\Desktop\c# code\inheritance\obj\Debug\net9.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\HomePC\Desktop\c# code\inheritance\obj\Debug\net9.0\inheritance.AssemblyInfo.cs
+C:\Users\HomePC\Desktop\c# code\inheritance\obj\Debug\net9.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\Desktop\c# code\inheritance\obj\Debug\net9.0\inheritance.dll
+C:\Users\HomePC\Desktop\c# code\inheritance\obj\Debug\net9.0\refint\inheritance.dll
+C:\Users\HomePC\Desktop\c# code\inheritance\obj\Debug\net9.0\inheritance.pdb
+C:\Users\HomePC\Desktop\c# code\inheritance\obj\Debug\net9.0\inheritance.genruntimeconfig.cache
+C:\Users\HomePC\Desktop\c# code\inheritance\obj\Debug\net9.0\ref\inheritance.dll
