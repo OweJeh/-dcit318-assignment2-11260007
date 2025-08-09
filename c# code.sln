@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance", "inheritance\inheritance.csproj", "{6FF3077F-B5CB-43F9-BBE8-4330F1CADA87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{6FF3077F-B5CB-43F9-BBE8-4330F1CADA87}.Release|x64.Build.0 = Release|Any CPU
 		{6FF3077F-B5CB-43F9-BBE8-4330F1CADA87}.Release|x86.ActiveCfg = Release|Any CPU
 		{6FF3077F-B5CB-43F9-BBE8-4330F1CADA87}.Release|x86.Build.0 = Release|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Debug|x64.Build.0 = Debug|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Debug|x86.Build.0 = Debug|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Release|x64.ActiveCfg = Release|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Release|x64.Build.0 = Release|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Release|x86.ActiveCfg = Release|Any CPU
+		{F0A4005F-5EF3-4F53-A6AB-C502E43B3B50}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
